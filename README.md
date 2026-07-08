@@ -11,9 +11,9 @@
 <br>
 ◼︎ **Mastering Monero**<br>
 [繁體中文翻譯 (zh-TW)](https://github.com/javaing/monerobook/tree/i18n/zh-tw-ch1/translations/zh-TW)
-
-📫 **聯絡我**: arttseng@gmail.com
-
+<br><br>
+📫 **聯絡我**: arttseng@gmail.com<br>
+<br>
 <!---
 javaing/javaing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
