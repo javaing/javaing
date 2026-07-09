@@ -9,9 +9,12 @@
 [fxhash Viewer (UI v2)](https://fxhash-viewer-nine.vercel.app/?ui=v2)
 
 <br><br>
-◼︎ **Mastering Monero**<br>
-[繁體中文翻譯 (zh-TW)](https://github.com/javaing/monerobook/tree/i18n/zh-tw-ch1/translations/zh-TW)
+◼︎ [Mastering Monero (繁體中文)](https://github.com/javaing/monerobook/tree/i18n/zh-tw-ch1/translations/zh-TW)
 <br><br>
+
+◼︎ [Monero白皮書 (繁體中文)](https://github.com/javaing/monero_whitepaper/tree/master/zh-TW)
+<br><br>
+
 📫 **聯絡我**: arttseng@gmail.com<br>
 <br>
 <!---
